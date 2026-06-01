@@ -1,0 +1,79 @@
+{
+  "name": "Smaran Harihar",
+  "tagline": "Senior Software Engineer  ·  Frontend & Full-Stack  ·  Agentic AI · Harness Engineering · Geospatial · Computer Vision",
+  "contact": {
+    "location": "Redlands, CA",
+    "phone": "909-436-7376",
+    "email": "smaran.harihar@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/smaranharihar/",
+    "github": "https://github.com/smaranh"
+  },
+  "summary": "Senior frontend and full-stack engineer (13+ years) at the leading edge of agentic AI — building the development “harness” (automated guardrails, testing, refactoring, and LLM context/knowledge graphs) that makes team-wide AI-assisted coding fast, consistent, and productive. Anchored in deep React/TypeScript/Node.js engineering and a decade-plus in GIS, now translating computer-vision and geospatial data into intuitive, high-performance interfaces for critical-infrastructure inspection.",
+  "skills": [
+    { "label": "Agentic AI & Harness Engineering", "value": "Claude Code, Cursor, prompt & context engineering, LLM knowledge graphs (domain grounding), AI guardrails & quality gates, Skills/workflow design, GitHub Copilot, ChatGPT" },
+    { "label": "Languages", "value": "TypeScript, JavaScript, Python, Go, HTML/CSS" },
+    { "label": "Frontend", "value": "React, Redux, Next.js, Styled Components, Tailwind CSS, Material UI, AntD, Fluent UI, Storybook" },
+    { "label": "Geospatial & Computer Vision", "value": "GIS, ArcGIS JS API, layered map-based views, CV overlays (bounding boxes, segmentation masks, metadata), large image-dataset rendering" },
+    { "label": "Backend & Architecture", "value": "Node.js, Express, Go, gRPC, ProtoBuf, microservices, clean architecture" },
+    { "label": "Testing & Build", "value": "Unit & E2E testing, Prettier, ESLint, Webpack, Vite; Agile Scrum" }
+  ],
+  "experience": [
+    {
+      "company": "ThreeV Technologies",
+      "title": "Senior Software Engineer 2 — Computer Vision & Geospatial (Frontend)",
+      "dates": "May 2026 – Present",
+      "bullets": [
+        [ { "t": "Established ThreeV's " }, { "b": "first AI development harness from scratch" }, { "t": " across a frontend and a full-stack application — automated guardrails (Prettier, linting, unit and E2E tests), code-quality standards, and reusable Skills/workflows, plus a " }, { "b": "domain knowledge graph that grounds LLMs in ThreeV context" }, { "t": " — making team-wide agentic coding productive and consistent." } ],
+        [ { "t": "Drove measurable engineering gains: raised automated " }, { "b": "test coverage from ~5% to ~85%" }, { "t": ", cut " }, { "b": "CI/build times ~40%" }, { "t": ", and accelerated " }, { "b": "feature delivery 20%+" }, { "t": " — while authoring the team's first documentation to streamline onboarding." } ],
+        [ { "t": "Refactored a sprawling legacy codebase — " }, { "b": "26 files over 1,000 lines each (one exceeding 16,500 lines)" }, { "t": " — into readable, modular sub-components, removing redundancy left by multiple prior rewrites." } ],
+        [ { "t": "Build advanced " }, { "b": "computer-vision visualizations" }, { "t": " — bounding boxes, segmentation masks, and metadata overlays — over large image-based inspection datasets." } ],
+        [ { "t": "Engineer " }, { "b": "layered, map-based geospatial views" }, { "t": " that turn ML model outputs into clear, usable inspection workflows for operators of critical infrastructure (power, utilities, renewables)." } ]
+      ]
+    },
+    {
+      "company": "GOAT Group",
+      "title": "Senior Software Developer",
+      "dates": "Sep 2021 – Apr 2026",
+      "bullets": [
+        [ { "t": "Architected a high-scale " }, { "b": "React/Node.js CMS dashboard" }, { "t": " enabling Marketing and Product teams to curate real-time merchandise data for millions of global users across iOS, Android, and Web." } ],
+        [ { "t": "Engineered seamless data synchronization between the CMS and dedicated " }, { "b": "Go/gRPC microservices" }, { "t": " for Drops, Auctions, and Trivia Games, ensuring low-latency updates during high-traffic events." } ],
+        [ { "b": "Early adopter of prompt and context engineering" }, { "t": " (Claude Code, Cursor) in the SDLC — accelerating unit-test and documentation generation and shortening ramp-up on new tech; the foundation for the AI harness later built at ThreeV." } ],
+        [ { "t": "Optimized application performance and scalability in an Agile Scrum environment, with a focus on clean architecture." } ]
+      ]
+    },
+    {
+      "company": "ESRI",
+      "title": "Senior Software Developer",
+      "dates": "May 2016 – Aug 2021",
+      "bullets": [
+        [ { "t": "Architected a " }, { "b": "framework-agnostic TypeScript core library" }, { "t": " used across Excel, SharePoint, Power BI, and SAP integrations, sharply reducing cross-platform development overhead." } ],
+        [ { "t": "Streamlined feature parity across the Business Intelligence suite via C#-to-TypeScript adapters, enabling a single codebase for map features and cutting regression cycles." } ],
+        [ { "t": "Led a new Microsoft 365 product on " }, { "b": "React, TypeScript, and Fluent UI" }, { "t": ", delivering a modern, responsive experience." } ]
+      ]
+    },
+    {
+      "company": "ESRI",
+      "title": "Software Developer",
+      "dates": "Feb 2013 – Apr 2016",
+      "bullets": [
+        [ { "t": "Built interoperability between Business Intelligence software and Chromium-embedded browsers using JS-to-C# bridges." } ],
+        [ { "t": "Spearheaded migration of legacy frameworks to " }, { "b": "Angular (v2+) in TypeScript" }, { "t": ", improving maintainability and long-term viability." } ]
+      ]
+    },
+    {
+      "company": "Reliance Tech Services",
+      "title": "Software Developer",
+      "dates": "Sep 2009 – Nov 2011",
+      "bullets": [
+        [ { "t": "Delivered custom " }, { "b": "spatial software solutions" }, { "t": " for diverse clients using JavaScript and the ArcGIS JS API, solving complex geographic-data challenges in client-facing engagements." } ]
+      ]
+    }
+  ],
+  "education": [
+    { "degree": "M.S., Geographic Information Systems & Technology", "institution": "The University of Arizona", "detail": "Minor in Computer Science  ·  GPA 4.0" },
+    { "degree": "B.E., Electronics & Telecommunication", "institution": "Pune University, India", "detail": "" }
+  ],
+  "recognition": [
+    { "bold": "Toastmasters Competent Leader", "rest": " — recognized for clear communication and leadership across cross-functional teams." }
+  ]
+}

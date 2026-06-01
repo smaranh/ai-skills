@@ -1,0 +1,44 @@
+{
+  "name": "Smaran Harihar",
+  "tagline": "Senior Software Engineer  ·  Frontend & Full-Stack  ·  Agentic AI · Harness Engineering · Geospatial · Computer Vision",
+  "contact": {
+    "location": "Redlands, CA",
+    "phone": "909-436-7376",
+    "email": "smaran.harihar@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/smaranharihar/",
+    "github": "https://github.com/smaranh"
+  },
+  "showHowToUse": true,
+  "blocks": [
+    { "after": 220, "runs": [ { "ph": "[Month Day, Year]" } ] },
+    { "after": 200, "runs": [ { "t": "Dear " }, { "ph": "[Hiring Manager / Hiring Team at [Company]]" }, { "t": "," } ] },
+    { "runs": [
+      { "t": "For 13+ years I've built scalable, high-performance web applications that turn complex data — and increasingly, AI itself — into fast, usable products. " },
+      { "ph": "[1–2 sentences tailored to [Company]: what specifically draws you to this team/product, and the problem you want to help solve.]" }
+    ] },
+    { "runs": [
+      { "t": "At ThreeV Technologies I built the company's " },
+      { "b": "first AI development harness from scratch" },
+      { "t": " across a frontend and a full-stack codebase — automated guardrails (linting, formatting, unit and end-to-end tests), large-scale refactoring, and a domain knowledge graph that grounds LLMs in product context. The impact was concrete: " },
+      { "b": "test coverage rose from ~5% to ~85%, CI/build times dropped ~40%, and feature delivery sped up 20%+" },
+      { "t": ", with the team's first onboarding documentation created along the way. In the same role I build the computer-vision and geospatial interfaces — bounding-box and segmentation overlays, layered map views — that turn ML model outputs into clear inspection workflows for operators of critical infrastructure." }
+    ] },
+    { "runs": [
+      { "t": "This builds on a decade of bridging complex data with the modern web. At " },
+      { "b": "GOAT Group" },
+      { "t": " I architected a React/Node.js CMS serving millions of users across web and mobile, synchronized over Go/gRPC microservices, and was an early adopter of prompt and context engineering in the SDLC. At " },
+      { "b": "Esri" },
+      { "t": ", the global GIS leader, I architected framework-agnostic TypeScript libraries spanning Microsoft 365, Power BI, and SAP — repeatedly turning complex, cross-platform data into seamless product experiences." }
+    ] },
+    { "runs": [
+      { "t": "My foundation — an M.S. in GIS & Technology (4.0 GPA, Computer Science minor, University of Arizona), a B.E. in Electronics & Telecommunication, and recognition as a Toastmasters Competent Leader — equips me to " },
+      { "ph": "[tie your strengths to what this role needs]" },
+      { "t": ". I'd welcome the chance to discuss how I can help " },
+      { "ph": "[Company]" },
+      { "t": " " },
+      { "ph": "[specific goal / initiative]" },
+      { "t": ". Thank you for your time and consideration." }
+    ] }
+  ],
+  "signoff": "Sincerely,"
+}

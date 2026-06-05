@@ -1,0 +1,29 @@
+{
+  "skill_name": "hypo-res",
+  "evals": [
+    {
+      "id": 0,
+      "name": "supported-tg-hdl-sdldl",
+      "prompt": "A high triglyceride-to-HDL ratio means I have small dense LDL and atherogenic dyslipidemia.",
+      "expected_output": "Verdict of Supported (likely moderate-strong), grounded in the atherogenic-dyslipidemia source-summary and related concept pages, citing [[wiki-links]] for the TG/HDL -> sdLDL mechanism. Should distinguish general research from his own logged panels.",
+      "files": [],
+      "assertions": []
+    },
+    {
+      "id": 1,
+      "name": "gap-fast-lowers-lpa",
+      "prompt": "My weekly 36-hour fast is lowering my Lp(a) over time.",
+      "expected_output": "Verdict of Inconclusive. The wiki has no evidence linking fasting to Lp(a) (Lp(a) is genetically determined). Should name the knowledge gap plainly and provide 3-6 searchable research keywords. Should not fabricate a mechanism from outside knowledge.",
+      "files": [],
+      "assertions": []
+    },
+    {
+      "id": 2,
+      "name": "grill-vague-fasting-heart",
+      "prompt": "I think fasting is good for my heart.",
+      "expected_output": "Hypothesis is vague (no biomarker, no direction, no scope). Skill should invoke /grill-me (or otherwise interview the user) to sharpen it before resolving, rather than guessing an interpretation and resolving against the wrong claim.",
+      "files": [],
+      "assertions": []
+    }
+  ]
+}
